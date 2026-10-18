@@ -1,14 +1,14 @@
 # OrchardTail downloads
 
-OrchardTail 0.2.0 is an early Windows x64 preview: four separate desktop applications featuring Apri, the red panda companion.
+OrchardTail 0.2.1 is an early Windows x64 preview: four separate desktop applications featuring Apri, the red panda companion.
 
 ## Get started
 
-1. Download [OrchardTail Hub for Windows](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/download/v0.2.0/OrchardTail-hub-0.2.0-win32-x64.zip).
+1. Download [OrchardTail Hub for Windows](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/download/v0.2.1/OrchardTail-hub-0.2.1-win32-x64.zip).
 2. Extract the entire ZIP into its own folder, then run `OrchardTail Hub.exe`. Keep the files beside the EXE together.
 3. Hub checks for updates automatically. Use **Update apps** to download Floor Planner, Charts and Scribe. No GitHub login is needed.
 
-[All release downloads and checksums](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/tag/v0.2.0) are available if you prefer individual portable app bundles.
+[All release downloads and checksums](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/tag/v0.2.1) are available if you prefer individual portable app bundles.
 
 ## The apps
 
