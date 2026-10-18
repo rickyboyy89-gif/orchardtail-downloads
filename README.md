@@ -1,18 +1,18 @@
 # OrchardTail downloads
 
-OrchardTail 0.1.2 is an early Windows x64 preview: four separate desktop applications featuring Apri, the red panda companion.
+OrchardTail 0.1.3 is an early Windows x64 preview: four separate desktop applications featuring Apri, the red panda companion.
 
 ## Get started
 
-1. Download [OrchardTail Hub for Windows](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/download/v0.1.2/OrchardTail-hub-0.1.2-win32-x64.zip).
+1. Download [OrchardTail Hub for Windows](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/download/v0.1.3/OrchardTail-hub-0.1.3-win32-x64.zip).
 2. Extract the entire ZIP into its own folder, then run `OrchardTail Hub.exe`. Keep the files beside the EXE together.
 3. Hub checks for updates automatically. Use **Update apps** to download Floor Planner, Charts and Scribe. No GitHub login is needed.
 
-[All release downloads and checksums](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/tag/v0.1.2) are available if you prefer individual portable app bundles.
+[All release downloads and checksums](https://github.com/rickyboyy89-gif/orchardtail-downloads/releases/tag/v0.1.3) are available if you prefer individual portable app bundles.
 
 ## The apps
 
-- **Floor Planner:** Residential and Industrial project paths, room/wall drawing, room detection, photos, editable grid scale and dimensions, illustrated furniture, network/electrical/plumbing overlays, searchable libraries, labeled devices, legends and schedules. SVG/PDF exports. Native `.otplan` projects.
+- **Floor Planner:** Residential and Industrial project paths, room/wall drawing with attached door/window cutouts, room detection, photos, editable grid scale and dimensions, illustrated furniture, network/electrical/plumbing overlays, searchable libraries, labeled devices, legends and schedules. SVG/PDF exports. Native `.otplan` projects.
 - **Charts:** Editable connected diagrams, native `.otflow` projects and SVG/PDF export.
 - **Scribe:** Type naturally; local rules sort tasks, decisions, questions, risks and key details. Native `.otnote` projects and Markdown export.
 - **Hub:** Separate app launching and signed, verified updates. Running editors are left open; pending updates install after closing. Close and reopen Hub to finish its own update.
